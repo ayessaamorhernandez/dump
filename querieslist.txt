@@ -1,0 +1,25 @@
+QUERIES NEEDED:
+
+CRUD (Create, Read, Update, Delete):
+> ICS STAFF/FACULTY
+> BOOK
+> SPTHESIS
+
+CRU (Create, Read, Update):
+> UP CONSTITUENT 
+
+DISPLAY ALL/ find():
+> ICSStaff and Faculty
+
+FILTERS/ find():
+-References: 
+> By DateAdded 
+> By Title
+> By Author
+> Alphabetical
+> By Adviser (for SPThesis only)
+> By Year (for SPThesis only)
+> By Subject (for Books only)
+> By Type (either Book or SPThesis)
+-Users:
+> By User Type (either Administrator, ICS Staff, Faculty or UP Constituent)
